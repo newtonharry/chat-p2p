@@ -1,2 +1,2 @@
 # chat-p2p
-A basic implementation of a TCP chat app in rust. It utilizes the mio library to handle non-blocking TCP events. This is my first time in developing a TCP application so its essentially me just hacking together some code which is proobably poor practice.
+A basic implementation of a TCP chat app in rust. It utilizes the mio library to handle non-blocking TCP events. This is my first time in developing a TCP application so its essentially me just hacking together some code which is proobably poor practice. Nothneless its a work in progress and a humbling learning experience in regards to learning TCP, P2P, non-blocking IO and multitthreading! 
